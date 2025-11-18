@@ -63,13 +63,12 @@ redirect_from:
 * 1990: Recipient, Graduate Teaching Assistantship Award, UMC, USA
 
 
-# RESEARCH SUMMARY
-
 ## Key Areas of Research
 
 * Design science in product design and development
 * Engineering/design informatics for managing/supporting digital design & manufacturing
 * Human factors and management of human performance
+
 
 ## Research Awards / Recognition
 
@@ -85,7 +84,6 @@ redirect_from:
 * 2014: Best Paper Award, the 21st ISPE International Conference on Concurrent Engineering
 * 2006: Research Award, Research Outstanding and Award Recognition (ROAR), NTU
 
-# SERVICE SUMMARY
 
 ## Service Awards / Recognition
 
