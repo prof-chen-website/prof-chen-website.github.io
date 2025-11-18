@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Academic Qualifications
-======
+## Academic Qualifications
+
 * Ph.D in Industrial Engineering, University of Missouri-Columbia (UMC), 1996
 * M.S. in Industrial Engineering, University of Missouri-Columbia, 1991
 * B.S. in Industrial Design, National Cheng Kung University (NCKU), 1984
 
-Professional Qualifications / Memberships
-======
+## Professional Qualifications / Memberships
+
 * 2022 – Present: Member, Design Society (DS), UK
 * 2018 – Present: Advisory Board Member, International Society for Transdisciplinary Engineering (ISTE), Netherlands
 * 2013 – 2018: Advisory Board Member, International Society for Productivity Enhancement (ISPE), USA
@@ -24,8 +24,8 @@ Professional Qualifications / Memberships
 * 1995 – 2007: Member, Institute of Industrial Engineers (IIE), USA
 * 1995 – 2004: Member, American Society for Engineering Education (ASEE), USA
 
-Summary of Working Experience
-======
+## Summary of Working Experience
+
 * Sep 2022 – Present: Professor
   * School of Mechanical & Aerospace Engineering, Nanyang Technological University
   * Research focus: Design science, Engineering informatics, Human factors
@@ -57,23 +57,15 @@ Summary of Working Experience
 * Jul 1984 – May 1986: National Services
   * Taiwan
 
-Academic Honours and Awards
-======
-* 1996: Recipient, Professional Presentation Travel Fellowship, UMC, USA
-* 1991-1996: Recipient, Graduate Research Assistantship Award, UMC, USA
-* 1990: Recipient, Graduate Teaching Assistantship Award, UMC, USA
 
-RESEARCH SUMMARY
-======
+## Key Areas of Research
 
-Key Areas of Research
-======
 * Design science in product design and development
 * Engineering/design informatics for managing/supporting digital design & manufacturing
 * Human factors and management of human performance
 
-Research Awards / Recognition
-======
+## Research Awards / Recognition
+
 * 2024: World's Top 2% Scientists 2024, by Stanford University
 * 2023: World's Top 2% Scientists 2023, by Stanford University
 * 2022: World's Top 2% Scientists 2022, by Stanford University
@@ -85,3 +77,9 @@ Research Awards / Recognition
 * 2017: Best Paper Award, the 24th ISPE International Conference on Transdisciplinary Engineering
 * 2014: Best Paper Award, the 21st ISPE International Conference on Concurrent Engineering
 * 2006: Research Award, Research Outstanding and Award Recognition (ROAR), NTU
+
+## Academic Honours and Awards
+
+* 1996: Recipient, Professional Presentation Travel Fellowship, UMC, USA
+* 1991-1996: Recipient, Graduate Research Assistantship Award, UMC, USA
+* 1990: Recipient, Graduate Teaching Assistantship Award, UMC, USA
