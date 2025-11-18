@@ -1,20 +1,201 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+{% include base_path %}
 
-Heading 1
+Key Courses Taught (Current Year and Last 2 years)
 ======
 
-Heading 2
+Undergraduate Courses
+------
+* **MA4858 Product Design** (AY17 – present)
+  * Level: Undergraduate
+  * Type: Lecture
+  * Semester: 1
+
+* **RE2011 Renaissance Design I** (AY18 – present) 
+  * Level: Undergraduate
+  * Type: Seminar
+  * Semester: 1
+
+* **MA4011 Engineering Product Design** (AY14 – present)
+  * Level: Undergraduate  
+  * Type: Tutorial
+  * Semester: 1
+
+* **RE2012 Renaissance Design II** (AY22 – AY22)
+  * Level: Undergraduate
+  * Type: Tutorial  
+  * Semester: 2
+
+* **P3.15 Product Disassembly** (AY18 – present)
+  * Level: Undergraduate
+  * Type: Experiment
+  * Semester: 1 & 2
+
+Postgraduate Courses
+------
+* **MA6811 (M6401) Product Design & Development** (AY05 – present)
+  * Level: Postgraduate
+  * Type: Lecture
+  * Semester: 1
+
+Academic Supervision and Mentoring
 ======
 
-Heading 3
+PhD Students
+------
+
+### Currently Supervising
+* **Li Hu** (2024 – present)
+  * Role: Sole Supervisor
+  * Research Area: Assessing diversity in multidisciplinary teams for product innovation
+  * Status: Taking courses
+
+* **Dong Liang** (2024 – present)  
+  * Role: Main Supervisor
+  * Research Area: Interaction digital twin for smart product-service systems
+  * Status: Taking courses
+
+* **Zhou Yehong** (2024 – present)
+  * Role: Sole Supervisor
+  * Research Area: A systematic human-AI collaborative framework for generative intelligent design
+  * Status: PhD candidature confirmed
+
+* **Pan Yimou** (2023 – present)
+  * Role: Sole Supervisor
+  * Research Area: Human digital twin in air traffic management
+  * Status: Preparing for QE
+
+* **Lyu Shuhui** (2023 – present)
+  * Role: Sole Supervisor  
+  * Research Area: Human factors in air traffic management systems
+  * Status: Preparing for QE
+
+* **Yao Xing** (2022 – present)
+  * Role: Sole Supervisor
+  * Research Area: Towards explainable, reliable, and generalizable situation awareness recognition for air traffic controllers
+  * Status: PhD candidature confirmed
+
+* **Su Yongrui** (2022 – present)
+  * Role: Sole Supervisor
+  * Research Area: Federated Learning approach toward enhancing manufacturing and process optimization
+  * Status: PhD candidature confirmed
+
+* **Xin Shiwei** (2021 – present)
+  * Role: Sole Supervisor
+  * Research Area: Assessing fatigue in air traffic control: a physio-psychological approach with the human performance envelope
+  * Status: PhD candidature confirmed
+
+* **Ma Guorui** (2021 – present)
+  * Role: Sole Supervisor
+  * Research Area: An ERP-based psycho-physiological methodology for novel human-machine interactions and interfaces development and evaluation
+  * Status: PhD candidature confirmed
+
+* **Li Yaling** (2023 – present)
+  * Role: Co-Supervisor (School of ADM)
+  * Main Supervisor: A/P Jesvin Yeo Puay Hwa
+  * Research Area: Typographic design for children with low vision
+  * Status: PhD candidature confirmed
+
+### Graduated (Current Year and Last 2 years)
+* **Ng Shan Xian Chelsea** (2023 – 2025)
+  * Role: Main Supervisor
+  * Thesis: Procedural generative design approach for multi-objective spatial layout planning with user interaction
+  * Current Status: Postdoctoral Research Fellow at University of Tokyo, Japan
+
+* **Yu Xiaoqing** (2021 – 2025)
+  * Role: Sole Supervisor
+  * Thesis: Towards reliable human operators' mental state monitoring: framework and applications
+  * Current Status: Postdoctoral Research Fellow at NUS, Singapore
+
+* **Lim Yan Hong, Kendrik** (2019 – 2024)
+  * Role: Sole Supervisor
+  * Thesis: Graph-enabled digital twins for intelligent product lifecycle management: a multi-dimensional approach to design, manufacturing, and supply chains transformation
+  * Current Status: Postdoctoral Research Fellow at MIT, USA
+
+* **Liu Bufan** (2020 – 2024)
+  * Role: Sole Supervisor
+  * Thesis: A cyber-physical system-enabled deep learning-based methodology for achieving cognitive intelligent manufacturing
+  * Current Status: Research Fellow at MAE/NTU
+
+* **Xia Ziqing** (2019 – 2024)
+  * Role: Sole Supervisor
+  * Thesis: An interpretable, data-driven approach for stress detection in online education
+  * Current Status: Research Fellow at MAE/NTU
+
+Masters Students & Undergraduate Students
+------
+### Graduated (Current Year and Last 2 Years)
+* **MSc students (by coursework)**: Main Supervisor for 8 students
+* **FYP (Final Year Project)**: Main Supervisor for 29 students
+* **URECA**: 0 students
+
+### Currently Supervising
+* **MSc students (by coursework)**: Main Supervisor for 5 students  
+* **FYP**: Sole Supervisor for 3 students, Main Supervisor for 10 students
+* **URECA**: 0 students
+
+Post-doctoral Fellows
 ======
+
+Currently Employed
+------
+* **Xia Ziqing** (2024 – present)
+  * Position: Research Fellow
+  * Project: AI-ATCO trust & human factors
+  * Status: On-going
+
+* **Lim Wei Lun** (2024 – present)
+  * Position: Research Fellow  
+  * Project: Human factors based technology for enhancing operators' competency and evaluating system/operation usability
+  * Status: On-going
+
+* **Hsieh Meng-Hsueh** (2023 – present)
+  * Position: Research Fellow
+  * Project: AI-ATCO trust & human factors
+  * Status: On-going
+
+Recently Left Service (Current Year and Last 2 Years)
+------
+* **Li Yuhua** (2021 – 2022)
+  * Position: Research Fellow
+  * Project: Robotic Foot Testing Equipment
+  * Current Status: In-between jobs
+
+* **Kuo Jo-Yu** (2020 – 2022)
+  * Position: Research Fellow
+  * Project: Coursework on designing for digital manufacturing
+  * Current Status: Assistant Professor at National Taipei University of Technology
+
+Teaching Awards / Recognition
+======
+* **2024 (Aug)**: Mentored UG students who have won the **Grand Prize Award (i-CAPS)** at the 12th International Students Joint Capstone Design (i-CAPS) Competition (the 1st out of 20 international teams)
+
+* **2023 (Aug)**: Mentored UG students who have won the **Bronze Prize Award (i-CAPS)** at the 11th International Students Joint Capstone Design (i-CAPS) Competition
+
+* **2021 (Oct)**: Mentored UG students who have won the **Bronze Prize Award (i-CAPS)** at the 9th International Students Joint Capstone Design (i-CAPS) Competition (online competition)
+
+* **2020 (Dec)**: Mentored UG students who have won the **Bronze Prize Award (i-CAPS)** at the 15th International Students Design Camp (d-Camp) & the 8th International Students Joint Capstone Design (i-CAPS) Competition (online competition)
+
+* **2020 (Jun)**: Mentored a UG student who has won a **Winning Award** at the FourC Challenge 24-hour Design Charrette Contest (online competition)
+
+* **2019 (Aug)**: Mentored UG students who have won the **Bronze Prize Award (i-CAPS)** at the 14th International Students Design Camp (d-Camp) & the 7th International Students Joint Capstone Design (i-CAPS) Competition
+
+* **2018 (Nov)**: Mentored UG students who have won the **Excellence Prize Award** at the 2018 Global Capstone Design Fair of Engineering Education Festa (E2 Festa) 2018
+
+* **2018 (Aug)**: Mentored UG students who have won the **Gold Prize Award (i-CAPS)** at the 12th International Students Design Camp (d-Camp) & the 6th International Students Joint Capstone Design (i-CAPS) Competition
+
+* **2017 (Aug)**: Mentored UG students who have won both the **Silver Prize Award (i-CAPS)** and **Bronze Prize Award (i-CAPS)** at the 10th International Students Design Camp (d-Camp) & the 5th International Students Joint Capstone Design (i-CAPS) Competition
+
+* **2017 (Aug)**: Mentored UG students who have won both the **Gold Prize Award (d-Camp, Design Thinking Contest)** and **Bronze Prize Award (d-Camp, Design Thinking Contest)** at the 10th International Students Design Camp (d-Camp) & the 5th International Students Joint Capstone Design (i-CAPS) Competition
+
+* **2010 (Nov)**: Mentored UG students who have won both **Gold Award** and **Silver Award** at Southeast Asia International Design Workshop @ NCKU.2010
+
+* **2008 (May)**: Mentored a UG student who has won **Gold Award** at the 2008 International Design Workshop and Competition @ NCKU & NTUA
+
+* **2007 (May)**: Mentored UG students who have won both **Advantech-TiC Innovation Award (the 1st prize)** and **Gold Prize of Tsann Kuen Award (the 2nd prize)** at the 2007 NCKU-TiC International Design Forum
