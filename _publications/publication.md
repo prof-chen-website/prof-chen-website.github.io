@@ -7,7 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-## Citation Summary (up to 8 July 2025)
+## Citation Summary 
+(up to 8 July 2025)
 
 | Database | Citation Count without self-citations | Citation Count with self-citations | H-index |
 |----------|---------------------------------------|-------------------------------------|---------|
@@ -25,13 +26,14 @@ author_profile: true
 
 ## Publications 
 
-**Symbol Explanations:**
-- **Bold**: Denotes main author
+(in chronological order, starting with the most recent)
+*Symbol Explanations:*
+- Bold: Denotes main author
 - ▴▴ : Denotes directly supervised research staff, i.e. POs, RAs, RFs, postdocs, etc.
 - ▴ : Denotes PhD students (supervised or co-supervised)
 - ★★ : Denotes Tier 1A/1A+ papers
 - ★ : Denotes Tier 1B papers
-(in chronological order, starting with the most recent)
+
 
 ### Journal Papers
 
@@ -78,7 +80,7 @@ author_profile: true
 41. Gao, Y.P▴, Chang, D.F., **Chen, C.-H.**, Xu, Z.Y. (2022). Design of digital twin applications in automated storage yard scheduling. Advanced Engineering Informatics, 51, 101477. **★★**
 42. Lyu, M.T.▴, Li, X.Y.▴▴, **Chen C.-H.** (2022). Achieving knowledge-as-a-service in IIoT-driven smart manufacturing: a crowdsourcing-based continuous enrichment method for industrial knowledge graph. Advanced Engineering Informatics, 51, 101494. **★★**
 43. Wang, Z.X.▴, **Chen, C.-H.**, Zheng, P., Li, X.Y▴▴, Song, W. (2022). A hypergraph-based approach for context-aware smart product-service system configuration. Computers & Industrial Engineering, 163, 107816. **★**
-44. Zhang, G.▴▴, **Chen, C.-H.**, ****Liu, B.F.▴, Li, X.Y.▴▴, Wang, Z.X.▴ (2021). Hybrid sensing-based approach for the monitoring and maintenance of shared manufacturing resources. International Journal of Production Research, 61(12), 3849-3867, 2023. **★**
+44. Zhang, G.▴▴, **Chen, C.-H.**, Liu, B.F.▴, Li, X.Y.▴▴, Wang, Z.X.▴ (2021). Hybrid sensing-based approach for the monitoring and maintenance of shared manufacturing resources. International Journal of Production Research, 61(12), 3849-3867, 2023. **★**
 45. Wang, Z.X▴, **Chen, C.-H.**, Li, X.Y▴▴, Zheng, P., Khoo, L.P. (2021). A context-aware concept evaluation approach based on user experiences for smart product-service systems design iteration. Advanced Engineering Informatics, 50, 101394. **★★**
 46. Kuo, J.-Y.▴▴, **Chen, C.-H.**, Koyama, S., Chang, D.N. (2021). Investigating the relationship between users' eye movements and perceived product attributes in design concept evaluation. Applied Ergonomics, 94, 103393. **★**
 47. Lo, C.K., Chen, C.-H., **Zhong, R.Y.** (2021). A Review of digital twin in product design and development. Advanced Engineering Informatics, 48, 101297. **★★**

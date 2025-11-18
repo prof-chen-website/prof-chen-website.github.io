@@ -7,7 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-## Key Courses Taught (Current Year and Last 2 years)
+## Key Courses Taught 
+(Current Year and Last 2 years)
 
 ### Undergraduate Courses
 
