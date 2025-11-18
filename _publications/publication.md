@@ -7,15 +7,43 @@ author_profile: true
 
 {% include base_path %}
 
-## Citation Summary *(as of 8 July 2025)*
+## Citation Summary 
+(as of 8 July 2025)
 
-| Database             | Citation Count (excl. self-citations) | Citation Count (incl. self-citations) | H-index |
-|----------------------|-----------------------------------------|------------------------------------------|---------|
-| Scopus               | –                                       | 8,068                                    | 48      |
-| Web of Science (SCI) | 5,355                                   | 5,880                                    | 40      |
-| Google Scholar       | –                                       | 11,334                                   | 56      |
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2">Database</th>
+      <th colspan="2">Citation Count</th>
+      <th rowspan="2">H-index</th>
+    </tr>
+    <tr>
+      <th>without<br>self-citations</th>
+      <th>with<br>self-citations</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Scopus</td>
+      <td></td>
+      <td>8068</td>
+      <td>48</td>
+    </tr>
+    <tr>
+      <td>Web of Science (SCI)</td>
+      <td>5355</td>
+      <td>5880</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td>Google Scholar</td>
+      <td></td>
+      <td>11334</td>
+      <td>56</td>
+    </tr>
+  </tbody>
+</table>
 
----
 
 ### **Complete Publication Statistics**
 
@@ -26,8 +54,7 @@ author_profile: true
 - Additional **research reports**, project deliverables, and other scholarly outputs  
 
 
-For the most up-to-date and complete list of my publications, please visit my  
-**[Google Scholar profile](https://scholar.google.com/citations?user=BzxO7REAAAAJ&hl=zh-CN)**.
+For the most up-to-date and complete list of my publications, please visit my[Google Scholar profile](https://scholar.google.com/citations?user=BzxO7REAAAAJ&hl=zh-CN).
 
 
 
