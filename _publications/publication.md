@@ -7,14 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-## Citation Summary 
-(up to 8 July 2025)
+## Citation Summary *(up to 8 July 2025)*
 
-| Database | Citation Count without self-citations | Citation Count with self-citations | H-index |
-|----------|---------------------------------------|-------------------------------------|---------|
-| Scopus | 8,068 | 8,068 | 48 |
-| Web of Science (SCI) | 5,355 | 5,880 | 40 |
-| Google Scholar | 11,334 | 11,334 | 56 |
+| Database             | Citation Count without self-citations | Citation Count with self-citations | H-index |
+|----------------------|----------------------------------------|-------------------------------------|---------|
+| Scopus               |                                        | 8,068                               | 48      |
+| Web of Science (SCI) | 5,355                                  | 5,880                               | 40      |
+| Google Scholar       |                                        | 11,334                              | 56      |
+
 
 *Complete Publication Statistics:*
 - **167 Journal Papers** (with high impact in Tier 1A/1A+ and Tier 1B venues)
@@ -26,14 +26,13 @@ author_profile: true
 
 ## Publications 
 
-(in chronological order, starting with the most recent)
 *Symbol Explanations:*
 - Bold: Denotes main author
 - ▴▴ : Denotes directly supervised research staff, i.e. POs, RAs, RFs, postdocs, etc.
 - ▴ : Denotes PhD students (supervised or co-supervised)
 - ★★ : Denotes Tier 1A/1A+ papers
 - ★ : Denotes Tier 1B papers
-
+(in chronological order, starting with the most recent)
 
 ### Journal Papers
 
