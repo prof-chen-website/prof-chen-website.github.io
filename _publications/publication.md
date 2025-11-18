@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
-
 ## Citation Summary 
 (as of 8 July 2025)
 
@@ -47,14 +45,13 @@ author_profile: true
 
 ### **Complete Publication Statistics**
 
-- **167 Journal Papers** (including Tier 1A/1A+ and Tier 1B venues)  
-- **4 Books** (authored and edited)  
-- **3 Book Chapters**  
-- **137 Conference Papers**  
-- Additional **research reports**, project deliverables, and other scholarly outputs  
+- 167 Journal Papers
+- 4 Books 
+- 3 Book Chapters
+- 137 Conference Papers*
+- Additional research report, project deliverables, and other scholarly outputs  
 
-
-For the most up-to-date and complete list of my publications, please visit my[Google Scholar profile](https://scholar.google.com/citations?user=BzxO7REAAAAJ&hl=zh-CN).
+For the most up-to-date and complete list of my publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=BzxO7REAAAAJ&hl=zh-CN).
 
 
 
