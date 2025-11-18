@@ -114,7 +114,7 @@ Currently Supervising
 
 ## Post-doctoral Fellows
 
-### Currently Employed
+Currently Employed
 * **Xia Ziqing** (2024 – present) - Research Fellow
   * Project: AI-ATCO trust & human factors
   * Status: On-going
@@ -127,7 +127,7 @@ Currently Supervising
   * Project: AI-ATCO trust & human factors
   * Status: On-going
 
-### Left Service (Current Year and Last 2 Years)
+Left Service (Current Year and Last 2 Years)
 * **Li Yuhua** (2021 – 2022) - Research Fellow
   * Project: Robotic Foot Testing Equipment
   * Current Status: In-between jobs

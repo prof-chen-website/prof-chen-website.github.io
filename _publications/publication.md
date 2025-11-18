@@ -23,6 +23,8 @@ author_profile: true
 - **137 Conference Papers**
 - **Multiple Research Reports** and other scholarly contributions
 
+For the most up-to-date list of my publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=BzxO7REAAAAJ&hl=zh-CN).
+
 
 ## Publications 
 
