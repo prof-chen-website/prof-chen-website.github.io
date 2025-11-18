@@ -7,23 +7,28 @@ author_profile: true
 
 {% include base_path %}
 
-## Citation Summary *(up to 8 July 2025)*
+## Citation Summary *(as of 8 July 2025)*
 
-| Database             | Citation Count without self-citations | Citation Count with self-citations | H-index |
-|----------------------|----------------------------------------|-------------------------------------|---------|
-| Scopus               |                                        | 8,068                               | 48      |
-| Web of Science (SCI) | 5,355                                  | 5,880                               | 40      |
-| Google Scholar       |                                        | 11,334                              | 56      |
+| Database             | Citation Count (excl. self-citations) | Citation Count (incl. self-citations) | H-index |
+|----------------------|-----------------------------------------|------------------------------------------|---------|
+| Scopus               | –                                       | 8,068                                    | 48      |
+| Web of Science (SCI) | 5,355                                   | 5,880                                    | 40      |
+| Google Scholar       | –                                       | 11,334                                   | 56      |
+
+---
+
+### **Complete Publication Statistics**
+
+- **167 Journal Papers** (including Tier 1A/1A+ and Tier 1B venues)  
+- **4 Books** (authored and edited)  
+- **3 Book Chapters**  
+- **137 Conference Papers**  
+- Additional **research reports**, project deliverables, and other scholarly outputs  
 
 
-*Complete Publication Statistics:*
-- **167 Journal Papers** (with high impact in Tier 1A/1A+ and Tier 1B venues)
-- **4 Books** (authored and edited)
-- **3 Book Chapters** 
-- **137 Conference Papers**
-- **Multiple Research Reports** and other scholarly contributions
+For the most up-to-date and complete list of my publications, please visit my  
+**[Google Scholar profile](https://scholar.google.com/citations?user=BzxO7REAAAAJ&hl=zh-CN)**.
 
-For the most up-to-date list of my publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=BzxO7REAAAAJ&hl=zh-CN).
 
 
 ## Publications 
