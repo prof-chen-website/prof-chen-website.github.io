@@ -30,6 +30,8 @@ author_profile: true
 * **MA6811 (M6401) Product Design & Development** (Lecture, AY05 – present)
 
 
+
+
 # Academic Supervision and Mentoring
 
 ## PhD Students
@@ -53,7 +55,7 @@ author_profile: true
 
 * **Lyu Shuhui** (2023 – present) - Sole Supervisor
   * Human factors in air traffic management systems
-  * Status: Preparing for QE
+  * Status: PhD candidature confirmed
 
 * **Yao Xing** (2022 – present) - Sole Supervisor
   * Towards explainable, reliable, and generalizable situation awareness recognition for air traffic controllers
@@ -102,12 +104,13 @@ author_profile: true
 ### Graduated (Current Year and Last 2 Years)
 * **MSc students (by coursework)**: Main Supervisor for 8 students
 * **FYP (Final Year Project)**: Main Supervisor for 29 students
-* **URECA**: 0 students
 
 ### Currently Supervising
 * **MSc students (by coursework)**: Main Supervisor for 5 students
 * **FYP**: Sole Supervisor for 3 students, Main Supervisor for 10 students
-* **URECA**: 0 students
+
+
+
 
 # Post-doctoral Fellows
 
@@ -132,6 +135,10 @@ author_profile: true
 * **Kuo Jo-Yu** (2020 – 2022) - Research Fellow
   * Project: Coursework on designing for digital manufacturing
   * Current Status: Assistant Professor at National Taipei University of Technology
+
+
+
+
 
 # Teaching Awards / Recognition
 
