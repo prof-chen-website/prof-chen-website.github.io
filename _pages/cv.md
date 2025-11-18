@@ -13,7 +13,7 @@ redirect_from:
 
 * Ph.D in Industrial Engineering, University of Missouri-Columbia (UMC), 1996
 * M.S. in Industrial Engineering, University of Missouri-Columbia, 1991
-* B.S. in Industrial Design, National Cheng Kung University (NCKU), 1984
+* B.S. in in Industrial Design, National Cheng Kung University (NCKU), 1984
 
 ## Professional Qualifications / Memberships
 
@@ -28,7 +28,6 @@ redirect_from:
 
 * Sep 2022 – Present: Professor
   * School of Mechanical & Aerospace Engineering, Nanyang Technological University
-  * Research focus: Design science, Engineering informatics, Human factors
 
 * Aug 2012 – Present: REP (Renaissance Engineering Program) Fellow
   * College of Engineering, Nanyang Technological University
@@ -57,6 +56,14 @@ redirect_from:
 * Jul 1984 – May 1986: National Services
   * Taiwan
 
+## Academic Honours and Awards
+
+* 1996: Recipient, Professional Presentation Travel Fellowship, UMC, USA
+* 1991-1996: Recipient, Graduate Research Assistantship Award, UMC, USA
+* 1990: Recipient, Graduate Teaching Assistantship Award, UMC, USA
+
+
+# RESEARCH SUMMARY
 
 ## Key Areas of Research
 
@@ -78,12 +85,7 @@ redirect_from:
 * 2014: Best Paper Award, the 21st ISPE International Conference on Concurrent Engineering
 * 2006: Research Award, Research Outstanding and Award Recognition (ROAR), NTU
 
-## Academic Honours and Awards
-
-* 1996: Recipient, Professional Presentation Travel Fellowship, UMC, USA
-* 1991-1996: Recipient, Graduate Research Assistantship Award, UMC, USA
-* 1990: Recipient, Graduate Teaching Assistantship Award, UMC, USA
-
+# SERVICE SUMMARY
 
 ## Service Awards / Recognition
 
