@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "Singapore"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Chen Chun-Hsien"
+title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Chen Chun-Hsien"
+name                     : &name "Prof.Dr.Chen Chun-Hsien"
 description              : &description "Professor, School of Mechanical & Aerospace Engineering, Nanyang Technological University, Singapore"
 url                      : https://prof-chen-website.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
