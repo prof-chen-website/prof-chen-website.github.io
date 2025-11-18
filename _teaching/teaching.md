@@ -37,7 +37,7 @@ author_profile: true
 
 ### PhD Students
 
-#### Currently Supervising
+Currently Supervising
 * **Li Hu** (2024 – present) - Sole Supervisor
   * Assessing diversity in multidisciplinary teams for product innovation
   * Status: Taking courses
@@ -79,7 +79,7 @@ author_profile: true
   * Typographic design for children with low vision
   * Status: PhD candidature confirmed
 
-#### Graduated (Current Year and Last 2 years)
+Graduated (Current Year and Last 2 years)
 * **Ng Shan Xian Chelsea** (2023 – 2025) - Main Supervisor
   * Procedural generative design approach for multi-objective spatial layout planning with user interaction
   * Current Status: Postdoctoral Research Fellow at University of Tokyo, Japan
@@ -102,11 +102,11 @@ author_profile: true
 
 ### Masters Students & Undergraduate Students
 
-#### Graduated (Current Year and Last 2 Years)
+Graduated (Current Year and Last 2 Years)
 * **MSc students (by coursework)**: Main Supervisor for 8 students
 * **FYP (Final Year Project)**: Main Supervisor for 29 students
 
-#### Currently Supervising
+Currently Supervising
 * **MSc students (by coursework)**: Main Supervisor for 5 students
 * **FYP**: Sole Supervisor for 3 students, Main Supervisor for 10 students
 
