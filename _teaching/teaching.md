@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-# Key Courses Taught (Current Year and Last 2 years)
+## Key Courses Taught (Current Year and Last 2 years)
 
-## Undergraduate Courses
+### Undergraduate Courses
 
 * **MA4858 Product Design** (Lecture, AY17 – present)
 
@@ -25,18 +25,18 @@ author_profile: true
 
 * **P3.15 Product Disassembly** (Experiment, AY18 – present)
 
-## Postgraduate Courses
+### Postgraduate Courses
 
 * **MA6811 (M6401) Product Design & Development** (Lecture, AY05 – present)
 
 
 
 
-# Academic Supervision and Mentoring
+## Academic Supervision and Mentoring
 
-## PhD Students
+### PhD Students
 
-### Currently Supervising
+#### Currently Supervising
 * **Li Hu** (2024 – present) - Sole Supervisor
   * Assessing diversity in multidisciplinary teams for product innovation
   * Status: Taking courses
@@ -78,7 +78,7 @@ author_profile: true
   * Typographic design for children with low vision
   * Status: PhD candidature confirmed
 
-### Graduated (Current Year and Last 2 years)
+#### Graduated (Current Year and Last 2 years)
 * **Ng Shan Xian Chelsea** (2023 – 2025) - Main Supervisor
   * Procedural generative design approach for multi-objective spatial layout planning with user interaction
   * Current Status: Postdoctoral Research Fellow at University of Tokyo, Japan
@@ -99,22 +99,21 @@ author_profile: true
   * An interpretable, data-driven approach for stress detection in online education
   * Current Status: Research Fellow at MAE/NTU
 
-## Masters Students & Undergraduate Students
+### Masters Students & Undergraduate Students
 
-### Graduated (Current Year and Last 2 Years)
+#### Graduated (Current Year and Last 2 Years)
 * **MSc students (by coursework)**: Main Supervisor for 8 students
 * **FYP (Final Year Project)**: Main Supervisor for 29 students
 
-### Currently Supervising
+#### Currently Supervising
 * **MSc students (by coursework)**: Main Supervisor for 5 students
 * **FYP**: Sole Supervisor for 3 students, Main Supervisor for 10 students
 
 
 
+## Post-doctoral Fellows
 
-# Post-doctoral Fellows
-
-## Currently Employed
+### Currently Employed
 * **Xia Ziqing** (2024 – present) - Research Fellow
   * Project: AI-ATCO trust & human factors
   * Status: On-going
@@ -127,7 +126,7 @@ author_profile: true
   * Project: AI-ATCO trust & human factors
   * Status: On-going
 
-## Left Service (Current Year and Last 2 Years)
+### Left Service (Current Year and Last 2 Years)
 * **Li Yuhua** (2021 – 2022) - Research Fellow
   * Project: Robotic Foot Testing Equipment
   * Current Status: In-between jobs
@@ -139,8 +138,7 @@ author_profile: true
 
 
 
-
-# Teaching Awards / Recognition
+## Teaching Awards / Recognition
 
 * **2024 (Aug)**: Mentored UG students who have won the **Grand Prize Award (i-CAPS)** at the 12th International Students Joint Capstone Design (i-CAPS) Competition (the 1st out of 20 international teams)
 
