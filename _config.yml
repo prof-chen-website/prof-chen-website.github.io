@@ -1,35 +1,26 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
-
 # Basic Site Settings
-locale                   : "Singapore"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Homepage"
+locale                   : "en-SG"   # 标准语言代码：English (Singapore)
+site_theme               : "default" # "default" 或 "air"
+title                    : "Homepage"  # 浏览器标签里的站点标题前半部分
 title_separator          : "-"
-name                     : &name "Prof.Dr.Chen Chun-Hsien"
+name                     : &name "Chun-Hsien Chen"  # 站点拥有者姓名，用在多处（更学术、通用的写法）
 description              : &description "Professor, School of Mechanical & Aerospace Engineering, Nanyang Technological University, Singapore"
-url                      : https://prof-chen-website.github.io
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : "https://prof-chen-website.github.io"
+baseurl                  : "" # 子路径一般留空
 repository               : "prof-chen-website/prof-chen-website.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# Site Author - 左侧栏作者信息
 author:
   # Biographic information
-  avatar           : "photo.jpeg"
-  name             : "Prof. Chen Chun-Hsien"
+  avatar           : "images/photo.jpeg"   # 头像路径：images/photo.jpeg
+  name             : "Professor Chun-Hsien Chen"  # 侧边栏展示用，加上头衔更直观
   pronouns         : 
   bio              : "Professor, School of Mechanical & Aerospace Engineering, Nanyang Technological University, Singapore"
   location         : "Singapore"
   employer         : "School of Mechanical & Aerospace Engineering, Nanyang Technological University"
   uri              : "https://dr.ntu.edu.sg/entities/person/Chen-Chun-Hsien"
-  email            : "mchchen@ntu.edu.sg" 
+  email            : "mchchen@ntu.edu.sg"
+
 
   # Academic websites
   academia         : 
@@ -47,7 +38,7 @@ author:
   bitbucket        : 
   codepen          : 
   dribbble         : 
-  github           : 
+  github           :   
   kaggle           : 
   stackoverflow    : 
 
@@ -77,6 +68,7 @@ author:
   xing             : 
   youtube          : 
   zhihu            : 
+
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
