@@ -142,7 +142,7 @@ redirect_from:
 * 2005 - 2009: Editorial Board Member of Advanced Engineering Informatics (IF: 9.9, Q1)
 * 2005 - 2006: Editorial Board Member of Journal of Chinese Institute of Industrial Engineers, CIIE
 
-### Other Service
+## Other Service
 
 * 2025 (Feb-Apr): Ph.D. Thesis Examiner, Department of Mechanical Engineering, Faculty of Engineering, Universiti Malaya, Malaysia
 * 2024 (Feb-Mar): Ph.D. Thesis Examiner, Department of Mechanical Engineering, Faculty of Engineering, Universiti Malaya, Malaysia
