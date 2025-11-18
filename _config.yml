@@ -12,7 +12,7 @@ repository               : "prof-chen-website/prof-chen-website.github.io"
 # Site Author - 左侧栏作者信息
 author:
   # Biographic information
-  avatar           : "images/photo.jpeg"   # 头像路径：images/photo.jpeg
+  avatar           : "profile.png"   # 头像路径：images/photo.jpeg
   name             : "Chun-Hsien Chen, PhD"  # 侧边栏展示用，加上头衔更直观
   pronouns         : 
   bio              : "Professor, School of Mechanical & Aerospace Engineering, Nanyang Technological University, Singapore"
