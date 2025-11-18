@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: 
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -43,7 +43,7 @@ Summary of Working Experience
   * School of Mechanical & Aerospace Engineering, Nanyang Technological University
 
 * Jan 1997 – Aug 1997: Consultant
-  * COSMOS Design & Management Consultant, Canada
+  * COSMOS Design & Mgmt. Consultant, Canada
 
 * Jan 1991 – Jul 1996: Research Assistant
   * Department of Industrial Engineering, University of Missouri-Columbia, USA
