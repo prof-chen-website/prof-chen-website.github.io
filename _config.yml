@@ -13,11 +13,11 @@ repository               : "prof-chen-website/prof-chen-website.github.io"
 author:
   # Biographic information
   avatar           : "images/photo.jpeg"   # 头像路径：images/photo.jpeg
-  name             : "Professor Chun-Hsien Chen"  # 侧边栏展示用，加上头衔更直观
+  name             : "Chun-Hsien Chen, PhD"  # 侧边栏展示用，加上头衔更直观
   pronouns         : 
   bio              : "Professor, School of Mechanical & Aerospace Engineering, Nanyang Technological University, Singapore"
   location         : "Singapore"
-  employer         : "School of Mechanical & Aerospace Engineering, Nanyang Technological University"
+  employer         : 
   uri              : "https://dr.ntu.edu.sg/entities/person/Chen-Chun-Hsien"
   email            : "mchchen@ntu.edu.sg"
 
