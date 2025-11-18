@@ -1,152 +1,522 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Chen Chun-Hsien",
+    "label": "Professor",
+    "email": "chchen@ntu.edu.sg",
+    "phone": null,
+    "website": "https://prof-chen-website.github.io",
+    "summary": "Professor at School of Mechanical & Aerospace Engineering, NTU. Research focuses on design science in product design and development, engineering/design informatics for managing/supporting digital design & manufacturing, and human factors and management of human performance. World's Top 2% Scientists (2022-2024) by Stanford University.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "address": "School of Mechanical & Aerospace Engineering",
+      "postalCode": "639798",
+      "city": "Singapore",
+      "countryCode": "SG",
+      "region": "Singapore"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "Chen Chun-Hsien",
+        "url": "https://scholar.google.com/citations?user=XXXXXXXXXXXX"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "To be added",
+        "url": "To be added"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Nanyang Technological University",
+      "position": "Professor",
+      "website": "https://www.ntu.edu.sg/mae",
+      "startDate": "2022-09-01",
+      "endDate": "Present",
+      "summary": "Professor at School of Mechanical & Aerospace Engineering",
+      "highlights": [
+        "Leading research in design science and engineering informatics",
+        "Principal Investigator of multiple million-dollar grants",
+        "World's Top 2% Scientists recognition (2022-2024)"
+      ]
+    },
+    {
+      "company": "Nanyang Technological University",
+      "position": "REP Fellow",
+      "website": "https://www.ntu.edu.sg/education/undergraduate/renaissance-engineering-programme",
+      "startDate": "2012-08-01",
+      "endDate": "Present",
+      "summary": "Renaissance Engineering Program Fellow, College of Engineering",
+      "highlights": [
+        "Developing innovative engineering education approaches",
+        "Mentoring next-generation engineers",
+        "Cross-disciplinary collaboration and research"
+      ]
+    },
+    {
+      "company": "Nanyang Technological University", 
+      "position": "Associate Professor",
+      "website": "https://www.ntu.edu.sg/mae",
+      "startDate": "2004-01-01",
+      "endDate": "2022-08-31",
+      "summary": "Associate Professor at School of Mechanical & Aerospace Engineering",
+      "highlights": [
+        "Established Design and Human Factors Laboratory",
+        "Director of Design Stream Program",
+        "Supervised 20+ PhD students to completion"
+      ]
+    },
+    {
+      "company": "Nanyang Technological University",
+      "position": "Assistant Professor",
+      "website": "https://www.ntu.edu.sg/mae", 
+      "startDate": "1999-01-01",
+      "endDate": "2003-12-31",
+      "summary": "Assistant Professor at School of Mechanical & Aerospace Engineering",
+      "highlights": [
+        "Launched research program in product design and development",
+        "Established collaborations with industry partners",
+        "Built up laboratory facilities and research team"
+      ]
+    },
+    {
+      "company": "Nanyang Technological University",
+      "position": "Lecturer",
+      "website": "https://www.ntu.edu.sg/mae",
+      "startDate": "1997-12-01",
+      "endDate": "1998-12-31",
+      "summary": "Lecturer at School of Mechanical & Aerospace Engineering"
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "University of Missouri-Columbia (UMC)",
+      "area": "PhD in Industrial Engineering",
+      "studyType": "Doctor of Philosophy",
+      "startDate": "1991-01-01",
+      "endDate": "1996-12-31",
+      "gpa": null,
+      "courses": [
+        "Advanced Manufacturing Systems",
+        "Product Design and Development", 
+        "Human Factors Engineering",
+        "Operations Research"
+      ]
+    },
+    {
+      "institution": "University of Missouri-Columbia", 
+      "area": "MS in Industrial Engineering",
+      "studyType": "Master of Science",
+      "startDate": "1989-01-01",
+      "endDate": "1991-12-31",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "National Cheng Kung University (NCKU)",
+      "area": "BS in Industrial Design", 
+      "studyType": "Bachelor of Science",
+      "startDate": "1980-09-01",
+      "endDate": "1984-06-01",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "skills": [
+    {
+      "name": "Research Areas",
+      "level": "Expert",
+      "keywords": [
+        "Design Science",
+        "Engineering Informatics", 
+        "Human Factors Engineering",
+        "Product Design and Development",
+        "Smart Manufacturing",
+        "AI-Human Collaboration"
+      ]
+    },
+    {
+      "name": "Technical Skills",
+      "level": "Advanced",
+      "keywords": [
+        "Digital Design and Manufacturing",
+        "Human-Computer Interaction",
+        "Data Analytics",
+        "Machine Learning",
+        "Cognitive Engineering"
+      ]
+    },
+    {
+      "name": "Software Tools",
+      "level": "Advanced", 
+      "keywords": [
+        "CAD/CAM Systems",
+        "Statistical Analysis Software",
+        "Eye-tracking Systems",
+        "EEG Analysis Tools",
+        "Simulation Software"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Chinese (Mandarin)",
+      "fluency": "Native speaker" 
+    },
+    {
+      "language": "Chinese (Traditional)",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Human-AI Collaborative Design",
+      "keywords": [
+        "Intelligent Design Systems",
+        "Human-Centered AI",
+        "Collaborative Intelligence"
+      ]
+    },
+    {
+      "name": "Air Traffic Management", 
+      "keywords": [
+        "Human Factors in Aviation",
+        "Situation Awareness",
+        "Cognitive Workload"
+      ]
+    },
+    {
+      "name": "Smart Manufacturing",
+      "keywords": [
+        "Industry 4.0", 
+        "Digital Twins",
+        "Product-Service Systems"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": "Professional references available upon request through official channels."
+    }
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Managing the fatigue frontier: AI applications in air traffic control operations",
+      "publisher": "Advanced Engineering Informatics",
+      "releaseDate": "2025-01-01",
+      "website": "https://doi.org/10.1016/j.aei.2024.103660",
+      "summary": "Research on AI applications for managing fatigue in air traffic control operations, focusing on the fatigue frontier concept and its implications for aviation safety.",
+      "authors": ["S.W. Xin", "K.Y.H. Lim", "M.-H. Hsieh", "C.-H. Chen", "L. Dong"],
+      "type": "Journal Article",
+      "volume": "68",
+      "pages": "103660",
+      "impact_factor": "9.9"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Examining the impact of large language models on design: functions, strengths, limitations, and roles",
+      "publisher": "Design and Artificial Intelligence", 
+      "releaseDate": "2025-01-01",
+      "website": "",
+      "summary": "Comprehensive analysis of how large language models are transforming design practice, examining their capabilities, limitations, and future potential.",
+      "authors": ["Y.H. Zhou", "C.-H. Chen"],
+      "type": "Journal Article", 
+      "status": "in press"
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Detection of in-the-wild and long-term stress based on cross-attention transformer and context-aware ensemble model",
+      "publisher": "Advanced Engineering Informatics",
+      "releaseDate": "2025-01-01", 
+      "website": "https://doi.org/10.1016/j.aei.2024.103586",
+      "summary": "Novel approach for detecting stress in real-world conditions using advanced machine learning techniques and contextual information.",
+      "authors": ["Z.Q. Xia", "C.-H. Chen", "M.-H. Hsieh", "J.D. Lim", "H.C.K. Sng", "M.K. Ahmad"],
+      "type": "Journal Article",
+      "volume": "68", 
+      "pages": "103586",
+      "impact_factor": "9.9"
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "A systematic review on human-AI hybrid systems and human factors in air traffic management",
+      "publisher": "Journal of Engineering Design",
+      "releaseDate": "2025-06-02",
+      "website": "", 
+      "summary": "Comprehensive systematic review examining the integration of human factors considerations in AI-enhanced air traffic management systems.",
+      "authors": ["Z.Q. Xia", "C.-H. Chen", "M.-H. Hsieh", "G.R. Ma", "B.F. Liu", "X.Q. Yu", "S.W. Xin", "L. Dong"],
+      "type": "Journal Article",
+      "status": "published online"
+    },
+    {
+      "name": "Human operators' cognitive workload recognition with a dual attention-enabled multimodal fusion framework",
+      "publisher": "Expert Systems with Applications",
+      "releaseDate": "2025-01-01",
+      "website": "https://doi.org/10.1016/j.eswa.2024.127418", 
+      "summary": "Advanced multimodal framework for recognizing cognitive workload in human operators using dual attention mechanisms.",
+      "authors": ["X.Q. Yu", "H.H. Yang", "C.-H. Chen"],
+      "type": "Journal Article",
+      "volume": "280",
+      "pages": "127418",
+      "impact_factor": "8.5"
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Informatics-Based Human-Centric Design & Manufacturing", 
+      "event": "The 13th International Symposium on Intelligent Manufacturing and Service Systems (IMSS 2025)",
+      "date": "2025-09-25",
+      "location": "Düzce, Turkey",
+      "description": "Keynote speech on informatics-supported human-centric approaches to design and manufacturing in the era of Industry 4.0."
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "name": "Informatics-Supported Human-Centric Design & Manufacturing",
+      "event": "The International Conference for Production Research Asia Pacific Region 2025 (ICPR-APR 2025)", 
+      "date": "2025-06-18",
+      "location": "Hong Kong",
+      "description": "Keynote presentation on the integration of informatics and human-centered design principles in modern manufacturing."
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
+      "name": "Human-Centric Intelligent Design and Manufacturing",
+      "event": "ICIM International Intelligent Manufacturing Symposium",
+      "date": "2025-05-09", 
+      "location": "Singapore",
+      "description": "Keynote address focusing on human-centric approaches to intelligent design and manufacturing systems."
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "AI-aided Human Factors in ATM and VTM Systems", 
+      "event": "The 32nd Ergonomics Society of Taiwan Annual Meeting and International Conference",
+      "date": "2025-03-07",
+      "location": "Huwei, Taiwan",
+      "description": "Keynote on the application of artificial intelligence in enhancing human factors considerations in air and vessel traffic management."
+    },
+    {
+      "name": "Human-Centric Smart Product-Service Systems with Research Issues",
+      "event": "The 12th International Symposium on Intelligent Manufacturing and Service Systems (IMSS 2023)",
+      "date": "2023-05-26", 
+      "location": "Sakarya, Turkey", 
+      "description": "Comprehensive overview of human-centric approaches to smart product-service systems and emerging research challenges."
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "MA4858 - Product Design",
+      "institution": "Nanyang Technological University",
+      "date": "2017-Present",
+      "role": "Course Coordinator and Lecturer", 
+      "level": "Undergraduate",
+      "description": "Comprehensive course covering product design methodologies, human factors considerations, and design innovation processes."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "RE2011 - Renaissance Design I", 
+      "institution": "Nanyang Technological University",
+      "date": "2018-Present",
+      "role": "Seminar Leader",
+      "level": "Undergraduate",
+      "description": "Interdisciplinary design thinking course for Renaissance Engineering Program students."
+    },
+    {
+      "course": "MA4011 - Engineering Product Design",
+      "institution": "Nanyang Technological University", 
+      "date": "2014-Present",
+      "role": "Tutorial Leader",
+      "level": "Undergraduate",
+      "description": "Hands-on engineering design tutorial focusing on practical product development skills."
+    },
+    {
+      "course": "MA6811 (M6401) - Product Design & Development",
+      "institution": "Nanyang Technological University",
+      "date": "2005-Present", 
+      "role": "Course Coordinator and Lecturer",
+      "level": "Postgraduate",
+      "description": "Advanced graduate course in product design and development methodologies, research methods, and contemporary issues."
+    },
+    {
+      "course": "P3.15 - Product Disassembly",
+      "institution": "Nanyang Technological University",
+      "date": "2018-Present",
+      "role": "Laboratory Coordinator", 
+      "level": "Undergraduate",
+      "description": "Experimental course on product disassembly for sustainability and design for disassembly principles."
     }
   ],
-  "portfolio": [
+  "awards": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "title": "World's Top 2% Scientists 2024",
+      "date": "2024-10-01",
+      "awarder": "Stanford University", 
+      "summary": "Recognition for being among the world's top 2% most-cited scientists based on standardized citation indicators."
+    },
+    {
+      "title": "World's Top 2% Scientists 2023",
+      "date": "2023-10-01",
+      "awarder": "Stanford University",
+      "summary": "Annual recognition for outstanding research impact and citation performance."
+    },
+    {
+      "title": "World's Top 2% Scientists 2022", 
+      "date": "2022-10-01",
+      "awarder": "Stanford University", 
+      "summary": "First-time recognition in Stanford's annual list of most influential scientists worldwide."
+    },
+    {
+      "title": "Best Paper Award",
+      "date": "2022-06-01", 
+      "awarder": "14th International Conference on Cross-Cultural Design (HCI International 2022)",
+      "summary": "Awarded for outstanding research contribution in cross-cultural design methodology."
+    },
+    {
+      "title": "Long Service Medal",
+      "date": "2023-08-01",
+      "awarder": "Ministry of Education, Singapore", 
+      "summary": "National Day Award recognizing 25 years of distinguished service in education."
+    },
+    {
+      "title": "25 Years Long Service Award", 
+      "date": "2023-01-01",
+      "awarder": "Nanyang Technological University",
+      "summary": "Recognition for quarter-century of dedicated service to the university."
+    }
+  ],
+  "grants": [
+    {
+      "title": "CL1e - Manual Assembly Job Quality Inspection",
+      "amount": "S$715,000",
+      "currency": "SGD",
+      "date": "2025-01-01",
+      "duration": "2025-2029",
+      "role": "Principal Investigator",
+      "source": "Hyundai-NTU-A*STAR Corp Lab (NRF Grant)",
+      "summary": "Research on AI-enabled quality inspection systems for manual assembly processes."
+    },
+    {
+      "title": "AI-ATCO Trust & Human Factor", 
+      "amount": "S$1,550,366",
+      "total_amount": "S$2,150,366", 
+      "currency": "SGD",
+      "date": "2024-01-01", 
+      "duration": "2024-2027",
+      "role": "Principal Investigator",
+      "source": "CAAS",
+      "summary": "Comprehensive study on AI-air traffic controller trust and human factors considerations. Note: $600K allocated to Co-I, Prof Lye Sun Woh."
+    },
+    {
+      "title": "Human Factors based Technology for Enhancing Operators' Competency and Evaluating System/Operation Usability",
+      "amount": "S$452,400",
+      "total_amount": "S$903,120",
+      "currency": "SGD", 
+      "date": "2021-01-01",
+      "duration": "2021-2025",
+      "role": "Principal Investigator",
+      "source": "SMI Grant",
+      "summary": "Development of human factors-based technologies for improving operator performance and system usability evaluation."
+    },
+    {
+      "title": "Coursework on Designing for Digital Manufacturing",
+      "amount": "S$774,207",
+      "currency": "SGD",
+      "date": "2018-01-01", 
+      "duration": "2018-2023", 
+      "role": "Principal Investigator",
+      "source": "A*Star-HP-NTU Corp Lab (NRF Grant)",
+      "summary": "Educational innovation project developing coursework for digital manufacturing design principles."
+    },
+    {
+      "title": "Stakeholder-Oriented Innovative User-Centric Design and Solution Generation",
+      "amount": "S$817,500",
+      "currency": "SGD",
+      "date": "2016-01-01",
+      "duration": "2016-2021",
+      "role": "Principal Investigator", 
+      "source": "Delta-NTU Corp Lab (NRF Grant)",
+      "summary": "Research on stakeholder-oriented design methodologies for innovative user-centric solutions."
+    }
+  ],
+  "citations": {
+    "total_citations": {
+      "scopus": 8068,
+      "web_of_science": 5880,
+      "google_scholar": 11334
+    },
+    "h_index": {
+      "scopus": 48, 
+      "web_of_science": 40,
+      "google_scholar": 56
+    },
+    "updated": "2025-07-08"
+  },
+  "professional_memberships": [
+    {
+      "organization": "Design Society (DS)",
+      "role": "Member",
+      "startDate": "2022-01-01",
+      "endDate": "Present",
+      "location": "UK"
+    },
+    {
+      "organization": "International Society for Transdisciplinary Engineering (ISTE)",
+      "role": "Advisory Board Member", 
+      "startDate": "2018-01-01",
+      "endDate": "Present",
+      "location": "Netherlands"
+    },
+    {
+      "organization": "International Society for Productivity Enhancement (ISPE)",
+      "role": "Advisory Board Member",
+      "startDate": "2013-01-01",
+      "endDate": "2018-12-31", 
+      "location": "USA"
+    },
+    {
+      "organization": "Institute of Industrial Engineers (IIE)",
+      "role": "Senior Member",
+      "startDate": "2008-01-01",
+      "endDate": "2011-12-31",
+      "location": "USA"
+    },
+    {
+      "organization": "Institute of Industrial Engineers (IIE)",
+      "role": "Member",
+      "startDate": "1995-01-01",
+      "endDate": "2007-12-31",
+      "location": "USA"
+    },
+    {
+      "organization": "American Society for Engineering Education (ASEE)",
+      "role": "Member",
+      "startDate": "1995-01-01",
+      "endDate": "2004-12-31",
+      "location": "USA"
+    }
+  ],
+  "editorial_roles": [
+    {
+      "journal": "Advanced Engineering Informatics",
+      "role": "Editor-in-Chief",
+      "startDate": "2013-01-01",
+      "endDate": "2025-12-31",
+      "impact_factor": "9.9",
+      "tier": "Q1"
+    },
+    {
+      "journal": "Journal of Engineering Design", 
+      "role": "Editorial Board Member",
+      "startDate": "2022-01-01",
+      "endDate": "Present",
+      "tier": "Q1"
+    },
+    {
+      "journal": "Space Mission Planning & Operations",
+      "role": "Associate Editor",
+      "startDate": "2022-01-01", 
+      "endDate": "Present"
+    },
+    {
+      "journal": "Recent Patents on Engineering",
+      "role": "Editorial Board Member",
+      "startDate": "2007-01-01",
+      "endDate": "Present"
     }
   ]
 }
