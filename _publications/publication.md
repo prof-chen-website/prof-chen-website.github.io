@@ -24,7 +24,6 @@ author_profile: true
 
 
 ## Publications 
-(in chronological order, starting with the most recent)
 
 **Symbol Explanations:**
 - **Bold**: Denotes main author
@@ -32,6 +31,7 @@ author_profile: true
 - ▴ : Denotes PhD students (supervised or co-supervised)
 - ★★ : Denotes Tier 1A/1A+ papers
 - ★ : Denotes Tier 1B papers
+(in chronological order, starting with the most recent)
 
 ### Journal Papers
 
